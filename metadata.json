@@ -1,0 +1,6 @@
+{
+  "name": "Merge AI - Personal Chat Briefing Assistant",
+  "description": "Less scrolling. More understanding. Upload exported WhatsApp chats to get instant catch-up summaries, assignments, key dates, meetings, countdown deadlines, reminders, and grounded Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
